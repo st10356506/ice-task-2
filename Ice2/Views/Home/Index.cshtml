@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Upload your name and profile picture</h2>
+
+<form asp-action="UploadData" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" />
+    <input type="text" name="name" />
+    <button type="submit">Submit</button>
+</form>
+
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info mt-4">
+        <strong>@ViewBag.Message</strong>
+        @if (ViewBag.ImageUrl != null)
+        {
+            <div>
+                <img src="@ViewBag.ImageUrl" alt="Profile Picture" class="img-fluid mt-3" />
+            </div>
+        }
+    </div>
+}

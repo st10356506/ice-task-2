@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Ice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\ice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:ice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\services\\tablestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:services\\tablestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\services\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:services\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|c:\\users\\hp\\source\\repos\\ice2\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3C0145-6A31-47AB-80D3-A785391ED711}|Ice2.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:406405925:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:50:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "Models\\Data.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Models\\Data.cs",
+              "RelativeToolTip": "Models\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:50:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableStorage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Services\\TableStorage.cs",
+              "RelativeDocumentMoniker": "Services\\TableStorage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Services\\TableStorage.cs",
+              "RelativeToolTip": "Services\\TableStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:50:44.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobStorage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Services\\BlobStorage.cs",
+              "RelativeDocumentMoniker": "Services\\BlobStorage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Services\\BlobStorage.cs",
+              "RelativeToolTip": "Services\\BlobStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:50:44.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T18:50:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ice2",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Ice2.csproj",
+              "RelativeDocumentMoniker": "Ice2.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Ice2.csproj",
+              "RelativeToolTip": "Ice2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T18:50:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:50:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ice2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ice2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:50:33.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
